@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mathathugarikalpana@gmail.com**
 
-- 📄 Know about my experiences <a  href="https://drive.google.com/file/d/1olnPhlna2ik_KqT3I5PlEb9XDwcYmgkd/view?usp=drive_link" /> </a>
+- 📄 Know about my experiences **https://drive.google.com/file/d/1olnPhlna2ik_KqT3I5PlEb9XDwcYmgkd/view?usp=drive_link**
 
 - ⚡ Fun fact **I think I am funny**
 
