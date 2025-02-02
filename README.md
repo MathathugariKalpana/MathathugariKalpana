@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-Linkedin profile **https://linkedin.com/in/mathathugari-kalpana-a68826257**
+<a href="https://linkedin.com/in/mathathugari-kalpana-a68826257">Linkedin Profile</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
